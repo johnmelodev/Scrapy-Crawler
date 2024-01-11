@@ -3,7 +3,7 @@ import scrapy
 
 
 class ProxyScraperSpider(scrapy.Spider):
-    # identidade
+    # identity
     name = 'proxyscraper'
     # scrapy crawl proxyscraper -O proxies.csv
     # change x
